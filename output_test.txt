@@ -1,1 +1,1 @@
-{'mpd': 'https://scontent-nrt1-1.cdninstagram.com/hvideo-ash-eag/_nc_cat-107/v/rASe_ORyZCw9JTug02qdIIt3WaTs3yGnDc1JWxagz6BycKQ/_nc_ohc-XDQXBrAOkM8AX--yv3c/live-dash/dash-abr/17870121270028589.mpd?ccb=2-4&ms=m_CN&oh=00_AfBLykD3nLglQp06nLJMg9OAoG1_4mguUgWGp51ktGmtqA&oe=658E5ECC', '1241420': '2000', '1243420': '2000'}
+{'mpd': 'https://scontent-nrt1-1.cdninstagram.com/***.mpd?ccb=**', '1241420': '2000', '1243420': '2000'}
